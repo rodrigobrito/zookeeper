@@ -76,6 +76,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ClientWatchManager.cs" />
+    <Compile Include="Generated\ZKId.cs" />
     <Compile Include="RetryPolicy.cs" />
     <Compile Include="ZKPaths.cs" />
     <Compile Include="CreateMode.cs" />
@@ -111,7 +112,6 @@
     <Compile Include="Generated\GetMaxChildrenRequest.cs" />
     <Compile Include="Generated\GetMaxChildrenResponse.cs" />
     <Compile Include="Generated\GetSASLRequest.cs" />
-    <Compile Include="Generated\Id.cs" />
     <Compile Include="Generated\LearnerInfo.cs" />
     <Compile Include="Generated\MultiHeader.cs" />
     <Compile Include="Generated\MultiTxn.cs" />
